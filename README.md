@@ -21,5 +21,5 @@ I am open about:
 - research internships
 
 # Contacts:
-1. Linkedin (https://www.linkedin.com/in/anik-chowdhury-9a09a9196)
-2. Facebook (https://www.facebook.com/anik.chowdhury.547727)
+1. Linkedin - https://www.linkedin.com/in/anik-chowdhury-9a09a9196
+2. Facebook - https://www.facebook.com/anik.chowdhury.547727
