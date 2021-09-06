@@ -1,5 +1,5 @@
 # IMS
-
+\n
 #This repository is having all the codes used in Inventory Management System for AI/ML Skill India Scholarship. An Inventory management System is the process by which track your good throughout your entire supply chain, from purchasing to production to end sales.
 
 #About the Repository?
